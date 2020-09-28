@@ -29,10 +29,15 @@ RAM, Operating System
 
 # Results
 * Loss vs Throughput
+
 ![Graph1](/Code/Loss.png)
+
 * Rate vs Throughput
+
 ![Graph2](/Code/Rate.png)
+
 * Delay vs Throughput
+
 ![Graph3](/Code/Delay.png)
 
 # File Structure
